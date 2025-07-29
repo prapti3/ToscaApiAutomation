@@ -1,0 +1,162 @@
+[3] 16:51:21: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tosca Api Automation\LearnApiAutomation\Api Automation Testing\Api Automation Testing.tws'
+[3] 16:51:21: Log level: 4
+[3] 16:51:21: Release: 16.0.0.3027
+[3] 16:51:21: Execution Approval is disabled.
+[3] 16:51:21: No service discovery configured.
+[3] 16:51:21:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 16:51:21: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 16:51:21: Searcher found 0 results in 52.7883 ms
+[3] 16:51:21:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 16:51:21:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 16:51:21:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 16:51:21:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 16:51:21:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 16:51:21:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 16:51:21: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\Tosca Api Automation\LearnApiAutomation\Api Automation Testing\Api Automation Testing.tws'
+[4] 16:51:28:  ShowStatusInfo: 'Ready'
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:51:32:  ShowStatusInfo: 'Ready'
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:51:32:  ShowStatusInfo: 'Ready'
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh all finished'
+[4] 16:51:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:51:32:  ShowStatusInfo: 'Ready'
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:51:32:  ShowStatusInfo: 'Ready'
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:51:32:  ShowStatusInfo: 'Refresh all finished'
+[3] 16:51:33: OpenWorkspace took 00:00:12.8143571 to finish
+[2] 16:51:33: Common repository is not available
+[4] 16:51:35:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:51:35:  ShowStatusInfo: 'Ready'
+[4] 16:51:35:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:51:35:  ShowStatusInfo: 'Ready'
+[4] 16:51:35:  ShowStatusInfo: 'Refresh view finished'
+[4] 16:51:36:  ShowStatusInfo: 'Ready'
+[4] 16:51:36:  ShowStatusInfo: '1 object selected'
+[4] 16:51:38:  ShowStatusInfo: 'Ready'
+[4] 16:51:38:  ShowStatusInfo: '1 object selected'
+[4] 16:51:42:  ShowStatusInfo: 'Ready'
+[4] 16:51:42:  ShowStatusInfo: '1 object selected'
+[4] 16:51:43:  ShowStatusInfo: 'Ready'
+[4] 16:51:43:  ShowStatusInfo: '1 object selected'
+[4] 16:51:44:  ShowStatusInfo: 'Ready'
+[4] 16:51:44:  ShowStatusInfo: '1 object selected'
+[4] 16:51:45:  ShowStatusInfo: 'Ready'
+[4] 16:51:45:  ShowStatusInfo: '1 object selected'
+[4] 16:51:47:  ShowStatusInfo: 'Ready'
+[4] 16:51:47:  ShowStatusInfo: '1 object selected'
+[4] 16:51:48:  ShowStatusInfo: 'Ready'
+[4] 16:51:48:  ShowStatusInfo: '1 object selected'
+[4] 16:51:49:  ShowStatusInfo: 'Ready'
+[4] 16:51:49:  ShowStatusInfo: '1 object selected'
+[4] 16:51:50:  ShowStatusInfo: 'Ready'
+[4] 16:51:50:  ShowStatusInfo: '1 object selected'
+[4] 16:51:55:  ShowStatusInfo: 'Ready'
+[3] 16:53:42: Task 'API Start API Scan' started on '/Modules'
+[4] 16:53:42:  ShowStatusInfo: 'API Start API Scan'
+[4] 16:53:45:  ShowStatusInfo: 'Start API Scan'
+[4] 16:53:53:  ShowStatusInfo: 'Ready'
+[4] 16:53:53:  ShowStatusInfo: 'Start API Scan finalizing ... '
+[4] 16:53:53:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:53:53:  ShowStatusInfo: 'Ready'
+[4] 16:53:53:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:53:53:  ShowStatusInfo: 'Ready'
+[4] 16:53:53:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:53:53:  ShowStatusInfo: 'Refresh all finished'
+[4] 16:53:53:  ShowStatusInfo: 'Start API Scan finished'
+[3] 16:53:53: Task 'API Start API Scan' finished
+[4] 16:53:58:  ShowStatusInfo: 'Ready'
+[4] 16:55:27:  ShowStatusInfo: '1 object selected'
+[4] 16:55:32:  ShowStatusInfo: 'Ready'
+[4] 16:55:37:  ShowStatusInfo: '1 object selected'
+[3] 16:55:39: Task 'API Start API Scan' started on '/Modules'
+[4] 16:55:39:  ShowStatusInfo: 'API Start API Scan'
+[4] 16:55:41:  ShowStatusInfo: 'Start API Scan'
+[4] 16:55:44:  ShowStatusInfo: 'Ready'
+[4] 16:55:44:  ShowStatusInfo: 'Start API Scan finalizing ... '
+[4] 16:55:44:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:55:44:  ShowStatusInfo: 'Ready'
+[4] 16:55:44:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:55:44:  ShowStatusInfo: 'Ready'
+[4] 16:55:44:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:55:44:  ShowStatusInfo: 'Refresh all finished'
+[4] 16:55:44:  ShowStatusInfo: 'Start API Scan finished'
+[3] 16:55:44: Task 'API Start API Scan' finished
+[4] 16:55:49:  ShowStatusInfo: 'Ready'
+[4] 16:55:57:  ShowStatusInfo: '1 object selected'
+[4] 16:56:02:  ShowStatusInfo: 'Ready'
+[3] 21:54:04: Closing Workspace!
+[3] 21:54:04: Log closed!
