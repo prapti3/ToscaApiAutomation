@@ -1,0 +1,122 @@
+[3] 09:36:01: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tosca Api Automation\LearnApiAutomation\Api Automation Testing\Api Automation Testing.tws'
+[3] 09:36:01: Log level: 4
+[3] 09:36:01: Release: 16.0.0.3027
+[3] 09:36:02: Execution Approval is disabled.
+[3] 09:36:02: No service discovery configured.
+[3] 09:36:02:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 09:36:02: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 09:36:02: Searcher found 0 results in 51.273 ms
+[3] 09:36:02:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 09:36:02:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 09:36:02:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 09:36:02:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 09:36:02:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 09:36:02:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 09:36:02: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\Tosca Api Automation\LearnApiAutomation\Api Automation Testing\Api Automation Testing.tws'
+[4] 09:36:12:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:36:12:  ShowStatusInfo: 'Ready'
+[4] 09:36:12:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:36:12:  ShowStatusInfo: 'Ready'
+[4] 09:36:12:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:36:12:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:36:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:36:13:  ShowStatusInfo: 'Ready'
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:36:13:  ShowStatusInfo: 'Ready'
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:36:13:  ShowStatusInfo: 'Ready'
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:36:13:  ShowStatusInfo: 'Ready'
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:36:13:  ShowStatusInfo: 'Refresh all finished'
+[3] 09:36:13: OpenWorkspace took 00:00:14.4834887 to finish
+[2] 09:36:13: Common repository is not available
+[4] 09:36:18:  ShowStatusInfo: 'Ready'
+[3] 09:57:20: Task 'API Start API Scan' started on '/Modules'
+[4] 09:57:20:  ShowStatusInfo: 'API Start API Scan'
+[4] 09:57:25:  ShowStatusInfo: 'Ready'
+[4] 09:57:26:  ShowStatusInfo: 'Start API Scan'
+[4] 09:57:43:  ShowStatusInfo: 'Ready'
+[4] 09:57:43:  ShowStatusInfo: 'Start API Scan finalizing ... '
+[4] 09:57:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:57:43:  ShowStatusInfo: 'Ready'
+[4] 09:57:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:57:43:  ShowStatusInfo: 'Ready'
+[4] 09:57:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:57:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:57:43:  ShowStatusInfo: 'Start API Scan finished'
+[3] 09:57:43: Task 'API Start API Scan' finished
+[4] 09:57:48:  ShowStatusInfo: 'Ready'

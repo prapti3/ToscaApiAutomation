@@ -1,0 +1,6 @@
+Swagger
+https://webservice.toscacloud.com/api/ui/index.html
+
+
+ access Key  
+https://webservice.toscacloud.com/training/
